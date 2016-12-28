@@ -2,7 +2,6 @@
 /*
    Robot à 2 roues télécommandé par IR (version 2016.10.06a)
    Copyright 2016 - Eric Sérandour
-   http://chaplab.info
 
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
